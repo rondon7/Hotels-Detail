@@ -1,2 +1,2 @@
-# hotels_detail
+# Hotels Details
 Sample Project for INGOApp without React JS
